@@ -1,1 +1,1 @@
-# Astro Starter Kit: Minimal
+# Three.js-Project-One
